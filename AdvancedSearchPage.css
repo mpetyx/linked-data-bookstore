@@ -1,0 +1,160 @@
+
+#nap1{
+	left:387px;
+	top:527px;
+	width:193px;
+	height:43px;
+	z-index:1;
+	font-size: 40px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#000000;
+}
+	
+#nap2{
+	left:825px;
+	top:528px;
+	width:153px;
+	height:24px;
+	z-index:2;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	color:#000000;
+}
+	
+#nap3{
+	left:490px;
+	top:823px;
+	width:340px;
+	z-index:3;
+	background-color:#FFFFFF;
+	color:#000000;
+	font-size: 14px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+}
+	
+#nap4{
+	left:604px;
+	top:884px;
+	z-index:4;
+}
+
+#nap4.napkee {
+	width:112px;
+	height:44px;
+	font-size: 14px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+
+	
+#nap5{
+	left:490px;
+	top:719px;
+	z-index:5;
+	width:82px;
+	height:83px;
+	font-size: 14px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap6{
+	left:490px;
+	top:689px;
+	width:62.7px;
+	height:26px;
+	z-index:6;
+	font-size: 18px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+	color:#000000;
+}
+	
+#nap7{
+	left:596px;
+	top:719px;
+	z-index:7;
+	width:82px;
+	height:83px;
+	font-size: 14px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap8{
+	left:596px;
+	top:690px;
+	width:177.10000000000002px;
+	height:26px;
+	z-index:8;
+	font-size: 18px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+	color:#000000;
+}
+	
+#nap9{
+	left:778px;
+	top:725px;
+	z-index:9;
+	width:82px;
+	height:83px;
+	font-size: 14px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap10{
+	left:773px;
+	top:690px;
+	width:62.7px;
+	height:26px;
+	z-index:10;
+	font-size: 18px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+	color:#000000;
+}
+	
+#nap11{
+	left:375px;
+	top:582px;
+	width:600px;
+	height:1px;
+	z-index:11;
+	background-color:#000000;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+}
+	
+#nap12{
+	left:375px;
+	top:1032px;
+	width:109px;
+	height:123px;
+	z-index:12;
+	font-size: 14px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	background-color:#DACE5F;
+}
+	
